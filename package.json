@@ -1,0 +1,21 @@
+{
+  "name": "oke-atomic-mumbai-vue-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "ethers": "^5.7.2",
+    "@walletconnect/web3-provider": "^1.8.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.17.0"
+  }
+}
