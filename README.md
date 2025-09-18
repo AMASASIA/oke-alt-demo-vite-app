@@ -1,4 +1,4 @@
-# OKE Atomic Mumbai Vue Project
+# OKE Atomic Vue Project
 
 ## Setup
 ```bash
