@@ -77,7 +77,9 @@ OKE_ATOMIC_MUMBAI_VUE_PROJECT/
  ├─ firebase/
  │   ├─ firebase.json
  │   └─ functions/index.js
+ ├─ index.html
  ├─ package.json
+ ├─ vite.config.js
  ├─ .gitignore
  ├─ README.md
  └─ .env.local.example
